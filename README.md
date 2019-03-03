@@ -1,15 +1,7 @@
-# Starter
+# ROTAfy
 
-A starter react-redux-thunk web app configured to sign users up to and authenticate from AWS cognito user pools.
+A project for streamlining the process of managing church rotas. Quite likely overengineered, but it exists because I wanted to build something, rather than because anyone is crying out for such a solution...
 
-# Knock yourself out
-
-This is intended to get me up and running with a web app quickly, rather than faffing about with all the boilerplate.
-
-If anyone would like to educate me in better ways to do this, I'd be grateful!
-
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
